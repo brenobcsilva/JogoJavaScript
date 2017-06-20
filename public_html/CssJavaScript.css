@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+table{
+    position: absolute;
+    left: 400px;
+    top: 20px;
+}
+b{
+    color: #fff;
+}
